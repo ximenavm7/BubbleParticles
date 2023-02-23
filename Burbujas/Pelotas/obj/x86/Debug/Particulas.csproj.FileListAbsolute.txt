@@ -1,0 +1,11 @@
+C:\Users\Ximena VMF\source\repos\Burbujas\Pelotas\bin\Debug\Pelotas.exe.config
+C:\Users\Ximena VMF\source\repos\Burbujas\Pelotas\bin\Debug\Pelotas.exe
+C:\Users\Ximena VMF\source\repos\Burbujas\Pelotas\bin\Debug\Pelotas.pdb
+C:\Users\Ximena VMF\source\repos\Burbujas\Pelotas\obj\x86\Debug\Particulas.csproj.AssemblyReference.cache
+C:\Users\Ximena VMF\source\repos\Burbujas\Pelotas\obj\x86\Debug\Particulas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ximena VMF\source\repos\Burbujas\Pelotas\obj\x86\Debug\Pelotas.Particulas.resources
+C:\Users\Ximena VMF\source\repos\Burbujas\Pelotas\obj\x86\Debug\Pelotas.Properties.Resources.resources
+C:\Users\Ximena VMF\source\repos\Burbujas\Pelotas\obj\x86\Debug\Particulas.csproj.GenerateResource.cache
+C:\Users\Ximena VMF\source\repos\Burbujas\Pelotas\obj\x86\Debug\Particulas.csproj.CoreCompileInputs.cache
+C:\Users\Ximena VMF\source\repos\Burbujas\Pelotas\obj\x86\Debug\Pelotas.exe
+C:\Users\Ximena VMF\source\repos\Burbujas\Pelotas\obj\x86\Debug\Pelotas.pdb
